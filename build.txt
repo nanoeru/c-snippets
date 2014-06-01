@@ -1,0 +1,2 @@
+#	. build.txt
+gcc -o main main.c func.c struct.c code.c
